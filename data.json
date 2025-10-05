@@ -1,5 +1,10 @@
 [
   {
+    "github": "bored-brain",
+    "photo": "https://github.com/bored-brain.png",
+    "quote": "with great power comes great responsibility."
+  },
+  {
     "github": "boringdeveloper",
     "photo": "https://github.com/boringdeveloper.png",
     "quote": "It works on my machine."
@@ -8,6 +13,11 @@
     "github": "Himans40",
     "photo": "https://github.com/Himans40.png",
     "quote": "The best way to predict the future is to invent it."
+  },
+  {
+    "github": "injora",
+    "photo": "https://github.com/injora.png",
+    "quote": "Yesterday is history, tomorrow is a mystery, but today is a gift"
   },
   {
     "github": "JefersonDeLeon",
@@ -20,6 +30,11 @@
     "quote": "It's something unpredictable but in the end it's right"
   },
   {
+    "github": "kartikktripathi",
+    "photo": "https://github.com/kartikktripathi.png",
+    "quote": "Everybody has to leave one day, better leave with a 'scar' made by you."
+  },
+  {
     "github": "melio0504",
     "photo": "https://github.com/melio0504.png",
     "quote": "Time spent with cats is never wasted."
@@ -30,6 +45,11 @@
     "quote": "Everything happens for a reason"
   },
   {
+    "github": "Parth-co79",
+    "photo": "https://github.com/Parth-co79.png",
+    "quote": "Strive to be better than you were yesterday."
+  },
+  {
     "github": "picklerick",
     "photo": "https://vignette2.wikia.nocookie.net/rickandmorty/images/7/7b/Picklerick.jpg/revision/latest?cb=20170725205548",
     "quote": "I'm Pickle Riiiiiiiiiiiiiiiiiiiiiiiick!"
@@ -38,5 +58,15 @@
     "github": "shashimii",
     "photo": "https://github.com/shashimii.png",
     "quote": "You cant copypaste someone else success you have to code your own."
+  },
+  {
+    "github": "soham-founder",
+    "photo": "https://github.com/soham-founder.png",
+    "quote": "Strive to build things that make a difference!"
+  },
+  {
+    "github": "Unknown-Shiva",
+    "photo": "https://github.com/Unknown-Shiva.png",
+    "quote": "Dream Big"
   }
 ]
