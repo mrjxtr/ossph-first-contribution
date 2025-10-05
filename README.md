@@ -109,6 +109,7 @@ Or open `index.html` in your browser locally to see the page.
 ## 💡 Need Help?
 
 If you run into any issues or have questions, feel free to:
+- Check out [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines
 - Open an issue in this repository
 - Ask for help in the pull request comments
 - Reach out to the community
