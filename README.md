@@ -1,3 +1,5 @@
+## [Ad] Try Merj for free
+
 <a href="https://merj.io?ref=first-contribution">
   <img src="./try-merj-for-free.png" alt="Try Merj for free" />
 </a>
