@@ -1,3 +1,7 @@
+<a href="https://merj.io?ref=first-contribution">
+  <img src="./try-merj-for-free.png" alt="Try Merj for free" />
+</a>
+
 # First Contribution 🎉
 
 Welcome to your first open source contribution! This project is designed for beginners who want to learn how to contribute to open source projects on GitHub.
